@@ -15,5 +15,6 @@ Steps For Run:
   4. Run your tests by running TestNG.xml
 
 
-  Note:
-  You can find a demo video in /ExecutionVideo directory.
+  Notes:
+  1. You can find a demo video in /ExecutionVideo directory.
+  2. User Retrieval test fails as https://reqres.in/ has no database so created user not found
