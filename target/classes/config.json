@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://reqres.in",
+  "crateUserEndPoint":"/api/users",
+  "updateUserEndPoint":"/api/users/id",
+  "retrieveUserEndPoint": "/api/users/id"
+}
